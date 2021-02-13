@@ -1,0 +1,1 @@
+Full Stack Application with React and Spring Boot. React is one of the most popular frontend and view frameworks. In combination with other libraries, React helps implementing a wide variety of frontend features. Spring Boot is another popular framework to build RESTful APIs. In this project, we'll combine these remarkable frameworks to create a full stack web application.
